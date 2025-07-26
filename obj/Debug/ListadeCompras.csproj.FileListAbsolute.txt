@@ -1,0 +1,10 @@
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\bin\Debug\ListadeCompras.exe.config
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\bin\Debug\ListadeCompras.exe
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\bin\Debug\ListadeCompras.pdb
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\obj\Debug\ListadeCompras.csproj.AssemblyReference.cache
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\obj\Debug\ListadeCompras.Form1.resources
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\obj\Debug\ListadeCompras.Properties.Resources.resources
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\obj\Debug\ListadeCompras.csproj.GenerateResource.cache
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\obj\Debug\ListadeCompras.csproj.CoreCompileInputs.cache
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\obj\Debug\ListadeCompras.exe
+C:\Users\SAI-PC\source\repos\ListadeCompras\ListadeCompras\obj\Debug\ListadeCompras.pdb
